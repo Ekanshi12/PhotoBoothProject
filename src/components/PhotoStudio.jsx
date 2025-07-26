@@ -195,7 +195,7 @@ const PhotoStudio = () => {
               </div>
             ))}
             <p className="photostrip-caption">
-              Booth •{" "}
+              {" "}
               {new Date().toLocaleDateString("en-IN", {
                 day: "numeric",
                 month: "long",
