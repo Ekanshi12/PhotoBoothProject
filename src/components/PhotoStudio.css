@@ -22,7 +22,7 @@
 .photoStudio {
   margin: 0;
   padding: 0;
-  height: 100vh;
+  height: 110vh;
   position: relative;
   background-image: url('/public/images/Beige\ aesthetic\ PC_Laptop\ Wallpaper.jpeg'); /* relative to /public */
   background-size:cover;
